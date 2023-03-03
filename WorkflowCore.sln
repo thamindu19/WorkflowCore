@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStarted", "GettingStarted\GettingStarted.csproj", "{5EE01C90-5FC2-45ED-AA98-57A05567397E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC01HelloWorld", "WC01HelloWorld\WC01HelloWorld.csproj", "{3A6840A1-924C-463B-A91B-FD3CCFF2314B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WC02JSON", "WC02JSON\WC02JSON.csproj", "{64A6B506-68D3-4FB5-9610-44F0A3AA7842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EE01C90-5FC2-45ED-AA98-57A05567397E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE01C90-5FC2-45ED-AA98-57A05567397E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE01C90-5FC2-45ED-AA98-57A05567397E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE01C90-5FC2-45ED-AA98-57A05567397E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6840A1-924C-463B-A91B-FD3CCFF2314B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6840A1-924C-463B-A91B-FD3CCFF2314B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6840A1-924C-463B-A91B-FD3CCFF2314B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6840A1-924C-463B-A91B-FD3CCFF2314B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A6B506-68D3-4FB5-9610-44F0A3AA7842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A6B506-68D3-4FB5-9610-44F0A3AA7842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A6B506-68D3-4FB5-9610-44F0A3AA7842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A6B506-68D3-4FB5-9610-44F0A3AA7842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

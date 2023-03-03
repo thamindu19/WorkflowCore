@@ -1,0 +1,14 @@
+{
+  "Id": "HelloWorldWorkflow",
+  "Version": 1,
+  "Steps": [
+    {
+      "Id": "HelloWorld",
+      "type": "MyCustomStep"
+    },
+    {
+      "Id": "GoodbyeWorld",
+      "type": "MyCustomStep"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "MyWorkflow",
+  "Version": 1,
+  "Steps": [
+    {
+      "Name": "Step1",
+      "Type": "MyStep",
+      "Input": {
+        "MyInput": "Hello, world!"
+      },
+      "NextStepId": "Step2"
+    },
+    {
+      "Name": "Step2",
+      "Type": "MyStep",
+      "Input": {
+        "MyInput": "Goodbye, world!"
+      }
+    }
+  ]
+}
